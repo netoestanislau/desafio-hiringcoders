@@ -22,7 +22,7 @@
     background-repeat: no-repeat;
   }
   .background-section-two{
-    background-image: url(../img/ground.png);
+    background-image: url(../img/bkg.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -35,6 +35,17 @@
     max-width: 650px;
   }
   
+  .produto-card{
+    padding: 25px;
+    max-width: 150px;
+    align-content: center;
+  }
+
+  .h1{
+    padding: 15px;
+    color:rgb(110, 58, 9);
+  }
+
   input{
     width: 100%;
     height: 30px;
